@@ -1,0 +1,122 @@
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\LaTuerca.dll.config
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\LaTuerca.dll
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\LaTuerca.pdb
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\Antlr3.Runtime.dll
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\EntityFramework.dll
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\EntityFramework.SqlServer.dll
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\Microsoft.Owin.dll
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\Microsoft.Owin.Security.dll
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\Microsoft.Owin.Security.Google.dll
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\Microsoft.Web.Infrastructure.dll
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\Newtonsoft.Json.dll
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\Owin.dll
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\System.Web.Helpers.dll
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\System.Web.Mvc.dll
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\System.Web.Optimization.dll
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\System.Web.Razor.dll
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\System.Web.WebPages.Deployment.dll
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\System.Web.WebPages.dll
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\System.Web.WebPages.Razor.dll
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\WebGrease.dll
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\System.Web.Helpers.xml
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\System.Web.Mvc.xml
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\System.Web.Optimization.xml
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\System.Web.Razor.xml
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\System.Web.WebPages.xml
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\System.Web.WebPages.Deployment.xml
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\System.Web.WebPages.Razor.xml
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\Antlr3.Runtime.pdb
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\Newtonsoft.Json.xml
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\EntityFramework.xml
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\EntityFramework.SqlServer.xml
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\Microsoft.Owin.xml
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\Microsoft.Owin.Security.xml
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\Microsoft.Owin.Security.Google.xml
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\obj\Debug\LaTuerca.dll
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\obj\Debug\LaTuerca.pdb
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\obj\Debug\LaTuerca.Migrations.InitialCreate.resources
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\obj\Debug\LaTuerca.csproj.GenerateResource.Cache
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\obj\Debug\LaTuerca.Migrations.changeMenusTable.resources
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\obj\Debug\LaTuerca.csprojResolveAssemblyReference.cache
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\obj\Debug\LaTuerca.Migrations.changeMenusTable1.resources
+c:\users\yanni\documents\visual studio 2013\Projects\LaTuerca\LaTuerca\obj\Debug\LaTuerca.Migrations.changeMenusTableAddedControllerAndAction.resources
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\LaTuerca.dll.config
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\LaTuerca.dll
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\LaTuerca.pdb
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\Antlr3.Runtime.dll
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\EntityFramework.dll
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\EntityFramework.SqlServer.dll
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\Microsoft.Owin.dll
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\Microsoft.Owin.Security.dll
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\Microsoft.Owin.Security.Google.dll
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\Microsoft.Web.Infrastructure.dll
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\Newtonsoft.Json.dll
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\Owin.dll
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\System.Web.Helpers.dll
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\System.Web.Mvc.dll
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\System.Web.Optimization.dll
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\System.Web.Razor.dll
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\System.Web.WebPages.Deployment.dll
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\System.Web.WebPages.dll
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\System.Web.WebPages.Razor.dll
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\WebGrease.dll
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\System.Web.Helpers.xml
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\System.Web.Mvc.xml
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\System.Web.Optimization.xml
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\System.Web.Razor.xml
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\System.Web.WebPages.xml
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\System.Web.WebPages.Deployment.xml
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\System.Web.WebPages.Razor.xml
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\Antlr3.Runtime.pdb
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\Newtonsoft.Json.xml
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\EntityFramework.xml
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\EntityFramework.SqlServer.xml
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\Microsoft.Owin.xml
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\Microsoft.Owin.Security.xml
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\Microsoft.Owin.Security.Google.xml
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\obj\Debug\LaTuerca.csprojResolveAssemblyReference.cache
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\obj\Debug\LaTuerca.Migrations.InitialCreate.resources
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\obj\Debug\LaTuerca.Migrations.changeMenusTable.resources
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\obj\Debug\LaTuerca.Migrations.changeMenusTable1.resources
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\obj\Debug\LaTuerca.Migrations.changeMenusTableAddedControllerAndAction.resources
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\obj\Debug\LaTuerca.csproj.GenerateResource.Cache
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\obj\Debug\LaTuerca.dll
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\obj\Debug\LaTuerca.pdb
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\obj\Debug\LaTuerca.Migrations.addActiveToMenus.resources
+E:\Tarea\2016\LaTuerca\LaTuerca\LaTuerca\obj\Debug\LaTuerca.Migrations.CreateCliente.resources
