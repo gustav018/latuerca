@@ -43,5 +43,7 @@ namespace LaTuerca.Models
         public System.Data.Entity.DbSet<LaTuerca.Models.Marcas> Marcas { get; set; }
 
         public System.Data.Entity.DbSet<LaTuerca.Models.Clientes> Clientes { get; set; }
+
+        public System.Data.Entity.DbSet<LaTuerca.Models.Bancos> Bancos { get; set; }
     }
 }

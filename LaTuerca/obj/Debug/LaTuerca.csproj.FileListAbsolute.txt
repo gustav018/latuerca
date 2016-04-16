@@ -124,3 +124,4 @@ C:\Users\usuario\Documents\Visual Studio 2013\Projects\LaTuerca\LaTuerca\obj\Deb
 C:\Users\usuario\Documents\Visual Studio 2013\Projects\LaTuerca\LaTuerca\obj\Debug\LaTuerca.Migrations.Repuesto.resources
 C:\Users\usuario\Documents\Visual Studio 2013\Projects\LaTuerca\LaTuerca\obj\Debug\LaTuerca.Migrations.Marcas.resources
 C:\Users\usuario\Documents\Visual Studio 2013\Projects\LaTuerca\LaTuerca\obj\Debug\LaTuerca.Migrations.Clientes.resources
+C:\Users\usuario\Documents\Visual Studio 2013\Projects\LaTuerca\LaTuerca\obj\Debug\LaTuerca.Migrations.Bancos.resources
